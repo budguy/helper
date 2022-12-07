@@ -1,4 +1,4 @@
-No launcher.  remember your need to use the launcher if patching.
+No launcher.  remember your need to use the launcher if patching.  Set your gfx options first or it will use default.
 
 make a shortcut to anarchy online
 
