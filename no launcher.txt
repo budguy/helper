@@ -1,0 +1,16 @@
+No launcher.  remember your need to use the launcher if patching.
+
+make a shortcut to anarchy online
+
+right click the shorcut and chose properties.
+
+EXACTLY
+
+"C:\Funcom\Anarchy Online\AnarchyOnline.exe" IA700453413 IP7505 DU
+
+in target
+
+for new server use 
+
+"C:\Funcom\Anarchy Online\AnarchyOnline.exe" IA700453413 IP7506 DU
+
