@@ -10,7 +10,7 @@ EXACTLY
 
 in target
 
-for new server use 
+for new server rk6 or rk2019 as you like, use 
 
 "C:\Funcom\Anarchy Online\AnarchyOnline.exe" IA700453413 IP7506 DU
 
